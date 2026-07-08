@@ -171,18 +171,8 @@ Other KPIs such as Total Sales, Total Profit, and Total Quantity were generated 
 
 # 📊 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
-
-Example:
-
-```
-images/dashboard.png
-```
-
-Then display it using
-
 ```markdown
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 ```
 
 ---
@@ -246,18 +236,14 @@ ShopClues-India-Sales-Performance-Dashboard/
 │   ├── Orders.csv
 │   └── Details.csv
 │
-├── Dashboard/
-│   └── ShopClues Dashboard.pdf
+├── ShopClues Dashboard.pdf
 │
-├── Documentation/
-│   └── Project Documentation.docx
+├── Project Documentation.docx
 │
 ├── Images/
 │   └── Dashboard.png
 │
-├── README.md
-│
-└── LICENSE
+└── README.md
 ```
 
 ---
