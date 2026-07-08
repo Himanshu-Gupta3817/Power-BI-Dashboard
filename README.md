@@ -171,9 +171,7 @@ Other KPIs such as Total Sales, Total Profit, and Total Quantity were generated 
 
 # 📊 Dashboard Preview
 
-```markdown
 ![Dashboard](Images/dashboard.png)
-```
 
 ---
 
